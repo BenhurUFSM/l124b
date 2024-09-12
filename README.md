@@ -55,8 +55,8 @@ Os assuntos vistos em aula serão listados aqui.
 
 |    N |   data | assunto
 | ---: | -----: | :--------
-|    1 | 10set  | introdução
-|    2 | 12set  | 
+|    1 | 10set  | apresentação, interrompida para recepção aos calouros
+|    2 | 12set  | [introdução](Aulas/02.md)
 |    3 | 17set  | 
 |    4 | 19set  | 
 |    5 | 24set  | 

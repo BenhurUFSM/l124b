@@ -59,7 +59,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    2 | 12set  | [introdução](Aulas/02.md)
 |    3 | 17set  | [primeiro programa C](Aulas/03.md)
 |    4 | 19set  | [primeiro programa C, cont.](Aulas/04.md)(e/s de números, funções, exercícios)
-|    5 | 24set  | 
+|    5 | 24set  | [exercícios da a4](Aulas/05.md)
 |    6 |  1out  | 
 |    7 |  3out  | 
 |    8 |  8out  | 

@@ -61,7 +61,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    4 | 19set  | [primeiro programa C, cont.](Aulas/04.md)(e/s de números, funções, exercícios)
 |    5 | 24set  | [exercícios da a4](Aulas/05.md)
 |    6 | 26set  | [printf, scanf; float](Aulas/06.md)
-|    7 |  1out  | 
+|    7 |  1out  | [vade retro vīrus](https://www.ufsm.br/2024/09/30/nota-atividades-administrativas-e-academicas-presenciais-suspensas-ate-01-de-outubro)
 |    8 |  3out  | 
 |    9 |  8out  | 
 |   10 | 10out  | 

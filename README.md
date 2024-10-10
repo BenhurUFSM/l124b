@@ -64,7 +64,7 @@ Os assuntos vistos em aula serão listados aqui.
 |      |  1out  | [vade retro vīrus](https://www.ufsm.br/2024/09/30/nota-atividades-administrativas-e-academicas-presenciais-suspensas-ate-01-de-outubro)
 |    7 |  3out  | [seleção com *if*](Aulas/07.md)
 |    8 |  8out  | [seleção com *switch*](Aulas/08.md)
-|    9 | 10out  | 
+|    9 | 10out  | [repetição com *while*](Aulas/09.md)
 |   10 | 15out  | 
 |   11 | 17out  | 
 |   12 | 22out  | 

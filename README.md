@@ -5,7 +5,7 @@ ELC1065 DLSC/CT/UFSM\
 professor: Benhur Stein ([benhur+l124b@inf.ufsm.br](mailto:benhur%2bl124b@inf.ufsm.br))\
 terças e quintas, 14h30\
 sala 334, prédio 7 (principal do CT)\
-aluno monitor: Enzo Silveira ([enzosilveira2@gmail.com](mailto:enzosilveira2@gmail.com))
+aluno monitor: Enzo Silveira ([enzo.silveira2@gmail.com](mailto:enzo.silveira2@gmail.com))
 
 ## Desenvolvimento da disciplina
 

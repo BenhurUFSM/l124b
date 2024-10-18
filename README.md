@@ -67,7 +67,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    8 |  8out  | [seleção com *switch*](Aulas/08.md)
 |    9 | 10out  | [repetição com *while*](Aulas/09.md)
 |   10 | 15out  | [repetição com *for*](Aulas/10.md)
-|   11 | 17out  | 
+|   11 | 17out  | [exercícios de repetição](Aulas/11.md)
 |   12 | 22out  | 
 |   13 | 24out  | 
 |   14 | 29out  | 

@@ -68,7 +68,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    9 | 10out  | [repetição com *while*](Aulas/09.md)
 |   10 | 15out  | [repetição com *for*](Aulas/10.md)
 |   11 | 17out  | [exercícios de repetição](Aulas/11.md)
-|   12 | 22out  | 
+|   12 | 22out  | [vetores](Aulas/12.md)
 |   13 | 24out  | 
 |   14 | 29out  | 
 |   15 | 31out  | 

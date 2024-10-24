@@ -69,7 +69,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   10 | 15out  | [repetição com *for*](Aulas/10.md)
 |   11 | 17out  | [exercícios de repetição](Aulas/11.md)
 |   12 | 22out  | [vetores](Aulas/12.md)
-|   13 | 24out  | 
+|   13 | 24out  | [vetores como argumento; strings](Aulas/13.md)
 |   14 | 29out  | 
 |   15 | 31out  | 
 |   16 |  5nov  | 

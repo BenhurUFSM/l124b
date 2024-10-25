@@ -133,7 +133,7 @@ A descrição dos trabalhos a entregar será colocada abaixo.
 
 |     N |     prazo | descrição
 | ----: | --------: | :-----------
-|    t1 | 25out     | [figuras](/Trabalhos/t1.md)
+|    t1 | 25out     | [figuras](/Trabalhos/t1.md) [.](https://docs.google.com/spreadsheets/d/1lwdp8eCamV-31ZNcUbJGCUGrrZoyMM8va7tBLHp7kWo/edit?usp=sharing)
 <!--|     1 | 4abr, <12h | [t1](Trabalhos/t1.md)-->
 <!--|     2 | 18jun, <12h | [jogo da velha](Trabalhos/t2)-->
 <!--|     3 |           | [sudoku](Trabalhos/t3)-->

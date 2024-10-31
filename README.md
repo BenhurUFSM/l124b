@@ -71,7 +71,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   12 | 22out  | [vetores](Aulas/12.md)
 |   13 | 24out  | [vetores como argumento; strings](Aulas/13.md)
 |   14 | 29out  | implementação do t1
-|   15 | 31out  | 
+|   15 | 31out  | [entrada de strings; exercício](Aulas/15.md)
 |   16 |  5nov  | 
 |   17 |  7nov  | 
 |   18 | 12nov  | 

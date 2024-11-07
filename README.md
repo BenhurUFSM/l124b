@@ -134,7 +134,7 @@ A descrição dos trabalhos a entregar será colocada abaixo.
 |     N |     prazo | descrição
 | ----: | --------: | :-----------
 |    t1 | 25out     | [figuras](/Trabalhos/t1.md) \| [planilha](https://docs.google.com/spreadsheets/d/1lwdp8eCamV-31ZNcUbJGCUGrrZoyMM8va7tBLHp7kWo/edit?usp=sharing) \| [implementação vista em aula](Trabalhos/figuras.c)
-|    t2 |           | [n rainhas](/Trabalhos/t2.md)
+|    t2 |           | [n rainhas](/Trabalhos/t2)
 
 ## Ementa
 

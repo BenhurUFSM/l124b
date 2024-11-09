@@ -99,8 +99,8 @@ void processa_teclado(jogo_t *pj)
 // vê se a linha a--b passa perto de c
 static bool passa_perto(ponto_t a, ponto_t b, ponto_t c)
 {
-  ponto_t d; // ponto na linha mais próximo de c
-  // calcula o quadrado da distância a--b
+  ponto_t d; // vai conter o ponto na linha a--b mais próximo de c
+  // calcula o quadrado da distância a--b em d_ab_2
   float dx_ab = b.x - a.x;
   float dy_ab = b.y - a.y;
   float d_ab_2 = dx_ab * dx_ab + dy_ab * dy_ab;
@@ -108,12 +108,18 @@ static bool passa_perto(ponto_t a, ponto_t b, ponto_t c)
     // pontos a e b tão bem pertos, escolhe a para ser o ponto mais perto de c
     d = a;
   } else {
+    // calcula o produto escalar entre os vetores ab e ac
+    // o produto escalar entre os vetores ab e ac dá
+    //   d_ab d_ac cos alfa, d_ab é o comprimento de ab, alfa o âng entre ab e ac 
+    // dividindo por d_ab, dá "d_ac cos alfa", que é a projeção de ac sobre ab
+    // dividindo por d_ab de novo dá essa projeção entre 0 e 1, um "percentual"
+    // da distância entre a e b onde está a projeção de c
     float dx_ac = c.x - a.x;
     float dy_ac = c.y - a.y;
     float esc = dx_ac * dx_ab + dy_ac * dy_ab; // prod. escalar  ab . ac
     float t = esc / d_ab_2; // projeção de ac sobre ab dividido por dist a--b
-    // t diz onde está o ponto mais próximo: <0: antes de a; >1 depois de b;
-    //   entre 0 e 1 entre a e b
+    // t diz onde está o ponto mais próximo: <0: antes de a; >1: depois de b;
+    //   entre 0 e 1: entre a e b
     if (t <= 0) d = a;
     else if (t >= 1) d = b;
     else {
@@ -126,6 +132,7 @@ static bool passa_perto(ponto_t a, ponto_t b, ponto_t c)
   float dy_cd = d.y - c.y;
   float d_cd_2 = dx_cd * dx_cd + dy_cd * dy_cd;
   // se a distância for pequena, passa perto
+  //   se o quadrado da distância for menor que 2, a distância é menor que 1.5 pixel
   return d_cd_2 < 2;
 }
 

@@ -74,7 +74,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   15 | 31out  | [entrada de strings; exercício](Aulas/15.md)
 |   16 |  5nov  | t2
 |   17 |  7nov  | [referências](Aulas/17.md)
-|   18 | 12nov  | 
+|   18 | 12nov  | [registros (*struct*)](Aulas/18.md)
 |   19 | 14nov  | 
 |   20 | 19nov  | 
 |   21 | 21nov  | 

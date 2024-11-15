@@ -75,7 +75,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   16 |  5nov  | t2
 |   17 |  7nov  | [referências](Aulas/17.md)
 |   18 | 12nov  | [registros (*struct*)](Aulas/18.md)
-|   19 | 14nov  | 
+|   19 | 14nov  | t2; [complementos](/Aulas/19.md)
 |   20 | 19nov  | 
 |   21 | 21nov  | 
 |   22 | 26nov  | JAI

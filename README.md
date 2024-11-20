@@ -136,7 +136,7 @@ A descrição dos trabalhos a entregar será colocada abaixo.
 |    t1 | 25out     | [figuras](/Trabalhos/t1.md) \| [planilha](https://docs.google.com/spreadsheets/d/1lwdp8eCamV-31ZNcUbJGCUGrrZoyMM8va7tBLHp7kWo/edit?usp=sharing) \| [implementação vista em aula](Trabalhos/figuras.c)
 |    t2 | 18nov     | [n rainhas](/Trabalhos/t2) \| [planilha](https://docs.google.com/spreadsheets/d/1N_sFpT_tbBn_GiL_ZpuPmBxZZaCthOqjglY3fS1ZBlo/edit?usp=sharing)
 |    t3 |           | [n rainhas gráfico](/Trabalhos/t3)
-|    t4 |           | [números](/Trabalhos/t4) ***incompleto***
+|    t4 |           | [números](/Trabalhos/t4)
 
 [Dicas do monitor para instalar o allegro.](https://docs.google.com/document/d/18zW--ISBWjjQO8G6rnnda0tEykXC10d-61xKdVs72M8/edit?usp=sharing)
 

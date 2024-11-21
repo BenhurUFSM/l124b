@@ -118,17 +118,62 @@ a formatação fica incoerente se outro for assim:
 ```
 e vice-versa.
 
+O programa deve ter a opção de ser executado com um tabuleiro contido em arquivo, em vez de aleatório. Pode ser um modo especial de execução, sem a possibilidade de se executar várias partidas. Use algo como o seguinte:
+```c
+#include <stdio.h>
+#include <stdbool.h>
+
+// função para verificar se os argumentos passados para o main
+// contêm uma referência para um arquivo, e se for o caso inicializa
+// o tabuleiro com o conteúdo desse arquivo e retorna true
+bool verifica_args(int nl, int nc, char tab[nl][nc], int argc, char *argv[])
+{
+  if (argc != 2) return false;
+  char *nome = argv[1];
+  FILE *arq = fopen(nome, "r");
+  if (arq == NULL) return false;
+  bool consegui_ler = true;
+  for (int l = 0; l < nl; l++) {
+    for (int c = 0; c < nc; c++) {
+      char val;
+      if (fscanf(arq, " %c", &val) == 1) {
+        if (val == '.' || (val >= '1' && val <= '9')) {
+          tab[l][c] = val;
+          continue;
+        }
+      }
+      consegui_ler = false;
+      break;
+    }
+    if (!consegui_ler) break;
+  }
+  fclose(arq);
+  return consegui_ler;
+}
+
+int main(int argc, char *argv[])
+{
+  char m[12][9];
+  if (verifica_args(12, 9, m, argc, argv)) {
+    printf("ok\n");
+  } else {
+    printf("nok\n");
+  }
+
+}
+```
+
 ### Sugestões
 
 - mantenha em memória um vetor com as 10 maiores pontuações (não esqueça que podem existir menos de 10)
 - faça uma função para inicializar esse vetor. Se houver arquivo, inicializa a partir do arquivo, se não, inicializa como vazio. Chama essa função uma vez no início do programa.
 - quando terminar uma partida, verifica se precisa atualizar o vetor (porque a pontuação foi suficiente), e se for o caso, grava o arquivo.
-- use uma matriz para o tabuleiro (dentro da struct principal do jogo), e declare constantes globais com o tamanho da matriz, com, por exemplo,
+- use uma matriz para o tabuleiro (dentro da struct principal do jogo), e declare constantes globais com o tamanho da matriz (por convenção, constantes declaradas assim têm nomes em maiúsculas).
+Por exemplo:
 ```c
 #define NLIN 12
 #define NCOL 9
 ```
-   Por convenção, constantes declaradas assim têm nomes em maiúsculas.
 - faça funções auxiliares, e teste o funcionamento delas de forma isolada.
 - exemplos de funções auxiliares:
    - uma função que recebe uma matriz com o tabuleiro e retorna se ainda tem jogadas possíveis

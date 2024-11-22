@@ -2,7 +2,7 @@
 
 Você deve reaproveitar algumas funções do t1 para reimplementar o programa das n-rainhas, desta vez usando uma tela gráfica em substituição à tela textual.
 
-A representação de um tabileiro deve continuar a mesma do t1.
+A representação de um tabuleiro deve continuar a mesma do t1.
 A função de verificação de ameaças deve continuar a mesma do t1.
 A função de desenho da tela deve ser substituída para usar as funções gráficas fornecidas.
 Deve ser feita uma nova função, para o tratamento do mouse.
@@ -72,3 +72,4 @@ Envia o email para o endereço da disciplina, antes do encerramento do prazo.
 
 **Sugestão**: tanto o desenho quanto o processamento do mouse serão mais fáceis de implementar se houver uma função que traduz coordenadas do mouse em coordenadas da janela e outra para o contrário.
 
+A representação interna do tabuleiro pode ser feita com uma matriz, em vez de um vetor. A interface das funções que recebem o tabuleiro como um vetor devem ser alteradas nesse caso para receberem uma matriz. Não recomendo fazer isso e sim aproveitar o código do trabalho anterior.

@@ -139,7 +139,15 @@ A descrição dos trabalhos a entregar será colocada abaixo.
 |    t4 |           | [números](/Trabalhos/t4)
 | final | 11dez     | [entrega final](final.md)
 
+## Notas
 
+As datas para a conversa final e as notas estão na [tabela](lista.md).
+A tabela vai sendo preenchida conforme eu processe os recebimentos das entregas finais.
+As notas aparecerão após o processamento das conversas.
+Quem não tiver nota 7, o exame é dia 19, no horário e local habituais das aulas.
+O exame é uma prova escrita, em papel, sem uso de computadores, sobre todo o conteúdo da disciplina.
+
+## Extras
 
 [Dicas do monitor para instalar o allegro.](https://docs.google.com/document/d/18zW--ISBWjjQO8G6rnnda0tEykXC10d-61xKdVs72M8/edit?usp=sharing)
 

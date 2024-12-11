@@ -7,8 +7,8 @@
 | leonardo                    | x     | 12-2     |      |             |
 | ArthurSchmidtLorentz        |       | 12-3     |      |             |
 | gabrielavitoriadarosasoares |       | 12-4     |      |             |
-| marco                       | x     | 12-5     |      |             |
-| joaopedroquadros            |       | 12-6     |      |             |
+| joaopedroquadros            |       | 12-5     |      |             |
+| marco                       | x     |          |      |             |
 
 **local da conversa:** sala 376-anexo B.
 

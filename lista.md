@@ -8,18 +8,19 @@
 | ArthurSchmidtLorentz        |       | 12-3     |  8   |             |
 | gabrielavitoriadarosasoares |       | 12-4     |  7.5 |             |
 | joaopedroquadros            |       | 12-5     |  7.3 |             |
+| nicolas                     |       | 12-6     | 8.5  |        |
+| ArturFardin                 |       | 12-7     | 5 |             |
+| dionatan                    |       | 12-8     | 7 |             |
 | marco                       | x     |          |      |             |
 | Lavinia                     |       |          |      |             |
-| nicolas                     |       | 12-6     | 8.5  |        |
 | RenatoMarquioro             |       |       | |             |
-| ArturFardin                 |       | 12-7  | 5 |             |
-| dionatan                    |       | 12-8  | 7 |             |
 | miguel                      |       |       | |             |
 | ricardo                     | x     |       |       |             |
 | otavio                      |       |       |       |             |
 | kaua                        |       |       |       |             |
 | octavio                     | x     |       |       |             |
 | matheus                     |       |       |       |             |
+| bruno                       | x     |       |       |             |
 
 **local da conversa:** sala 376-anexo B.
 

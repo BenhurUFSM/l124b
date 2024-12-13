@@ -3,17 +3,17 @@
 | Nome                        | forma | conversa | nota | comentários |
 | :---                        | :---: |     ---: | ---: | :---        |
 | GabrielVargas               |       | 10-16h10 |  9.4 |             |
-| BrenoRosa                   |       | 12-1     |      |             |
+| BrenoRosa                   |       | 12-1     |  8   |             |
 | leonardo                    | x     | 12-2     |      |             |
-| ArthurSchmidtLorentz        |       | 12-3     |      |             |
-| gabrielavitoriadarosasoares |       | 12-4     |      |             |
-| joaopedroquadros            |       | 12-5     |      |             |
+| ArthurSchmidtLorentz        |       | 12-3     |  8   |             |
+| gabrielavitoriadarosasoares |       | 12-4     |  7.5 |             |
+| joaopedroquadros            |       | 12-5     |  7.3 |             |
 | marco                       | x     |          |      |             |
 | Lavinia                     |       |          |      |             |
-| nicolas                     |       | 12-6     | |             |
+| nicolas                     |       | 12-6     | 8.5  |        |
 | RenatoMarquioro             |       |       | |             |
-| ArturFardin                 |       | 12-7  | |             |
-| dionatan                    |       | 12-8  | |             |
+| ArturFardin                 |       | 12-7  | 5 |             |
+| dionatan                    |       | 12-8  | 7 |             |
 | miguel                      |       |       | |             |
 | ricardo                     | x     |       |       |             |
 | otavio                      |       |       |       |             |

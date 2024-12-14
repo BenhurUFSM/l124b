@@ -3,24 +3,24 @@
 | Nome                        | forma | conversa | nota | comentários |
 | :---                        | :---: |     ---: | ---: | :---        |
 | GabrielVargas               |       | 10-16h10 |  9.4 |             |
-| BrenoRosa                   |       | 12-1     |  8   |             |
+| BrenoRosa                   |       | 12-1     |  8.0 |             |
 | leonardo                    | x     | 12-2     |      |             |
-| ArthurSchmidtLorentz        |       | 12-3     |  8   |             |
+| ArthurSchmidtLorentz        |       | 12-3     |  8.0 |             |
 | gabrielavitoriadarosasoares |       | 12-4     |  7.5 |             |
 | joaopedroquadros            |       | 12-5     |  7.3 |             |
-| nicolas                     |       | 12-6     | 8.5  |        |
-| ArturFardin                 |       | 12-7     | 5 |             |
-| dionatan                    |       | 12-8     | 7 |             |
-| matheus                     |       | 16-6  |       |             |
-| kaua                        |       | 16-7  |       |             |
-| bruno                       | x     | 16-8  |       |             |
+| nicolas                     |       | 12-6     |  8.5 |             |
+| ArturFardin                 |       | 12-7     |  5.0 |             |
+| dionatan                    |       | 12-8     |  7.0 |             |
+| matheus                     |       | 16-6     |      |             |
+| kaua                        |       | 16-7     |      |             |
+| bruno                       | x     | 16-8     |      |             |
 | marco                       | x     | 17-1     |      |             |
 | Lavinia                     |       | 17-2     |      |             |
-| RenatoMarquioro             |       | 17-3  | |             |
-| miguel                      |       | 17-4  | |             |
-| ricardo                     | x     | 17-5  |       |             |
-| otavio                      |       | 17-6  |       |             |
-| octavio                     | x     | 17-7  |       |             |
+| RenatoMarquioro             |       | 17-3     |      |             |
+| miguel                      |       | 17-4     |      |             |
+| ricardo                     | x     | 17-5     |      |             |
+| otavio                      |       | 17-6     |      |             |
+| octavio                     | x     | 17-7     |      |             |
 
 **local da conversa:** sala 376-anexo B.
 
@@ -30,7 +30,7 @@ Dia 17 deve começar as 14h, talvez um pouquinho mais tarde.
 
 "forma" na tabela acima está marcado quando o envio não seguiu a forma pedida no início da descrição da entrega final.
 
-"conversa" na tabela tem o dia e o horário ou ordem. O tempo estimado para cada conversa é 15min (entre 5 e 30). Dia 12 pretendo estar na sala (376-anexo B) pouco antes das 14. 
+"conversa" na tabela tem o dia e o horário ou ordem. O tempo estimado para cada conversa é 15min (entre 5 e 30).
 
 <!--
 | Nome                        | forma | pediu | data  | comentários |

@@ -48,7 +48,7 @@ Cada aluno será entrevistado individualmente pelo professor. A nota final será
 - a auto-avaliação
 - a entrevista.
 
-<!--Para quem não alcançar a nota suficiente (7), haverá uma prova escrita de recuperação (chamada exame).-->
+Para quem não alcançar a nota suficiente (7), haverá uma prova escrita de recuperação (chamada exame).
 
 ##  Aulas 
 
@@ -140,8 +140,6 @@ A descrição dos trabalhos a entregar será colocada abaixo.
 | final | 11dez     | [entrega final](final.md)
 
 ## Notas
-
-**Segunda-feira (16), à partir das 16h, tem tempo para algumas das conversas. Quem quiser usar esse horário, me mande um mail.**
 
 As datas para a conversa final e as notas estão na [tabela](lista.md).
 A tabela vai sendo preenchida conforme eu processe os recebimentos das entregas finais.

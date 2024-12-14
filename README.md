@@ -136,10 +136,12 @@ A descrição dos trabalhos a entregar será colocada abaixo.
 |    t1 | 25out     | [figuras](/Trabalhos/t1.md) \| [planilha](https://docs.google.com/spreadsheets/d/1lwdp8eCamV-31ZNcUbJGCUGrrZoyMM8va7tBLHp7kWo/edit?usp=sharing) \| [implementação vista em aula](Trabalhos/figuras.c)
 |    t2 | 18nov     | [n rainhas](/Trabalhos/t2) \| [planilha](https://docs.google.com/spreadsheets/d/1N_sFpT_tbBn_GiL_ZpuPmBxZZaCthOqjglY3fS1ZBlo/edit?usp=sharing)
 |    t3 | 4dez      | [n rainhas gráfico](/Trabalhos/t3) \| [planilha](https://docs.google.com/spreadsheets/d/1EPC9nrrO3ehCjVOJw-3TzZJDgOdqkVXccZQxa-FOcOA/edit?usp=sharing)
-|    t4 |           | [números](/Trabalhos/t4)
+|    t4 |           | [números](/Trabalhos/t4) \| [planilha](https://docs.google.com/spreadsheets/d/1CznwgbIZOlJJbw-hlIci6xTgXiEkwAKLwJ3pZvrHvMU/edit?usp=sharing)
 | final | 11dez     | [entrega final](final.md)
 
 ## Notas
+
+**Segunda-feira (16), à partir das 16h, tem tempo para algumas das conversas. Quem quiser usar esse horário, me mande um mail.**
 
 As datas para a conversa final e as notas estão na [tabela](lista.md).
 A tabela vai sendo preenchida conforme eu processe os recebimentos das entregas finais.

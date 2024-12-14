@@ -11,18 +11,22 @@
 | nicolas                     |       | 12-6     | 8.5  |        |
 | ArturFardin                 |       | 12-7     | 5 |             |
 | dionatan                    |       | 12-8     | 7 |             |
-| marco                       | x     |          |      |             |
-| Lavinia                     |       |          |      |             |
-| RenatoMarquioro             |       |       | |             |
-| miguel                      |       |       | |             |
-| ricardo                     | x     |       |       |             |
-| otavio                      |       |       |       |             |
-| kaua                        |       |       |       |             |
-| octavio                     | x     |       |       |             |
-| matheus                     |       |       |       |             |
-| bruno                       | x     |       |       |             |
+| matheus                     |       | 16-6  |       |             |
+| kaua                        |       | 16-7  |       |             |
+| bruno                       | x     | 16-8  |       |             |
+| marco                       | x     | 17-1     |      |             |
+| Lavinia                     |       | 17-2     |      |             |
+| RenatoMarquioro             |       | 17-3  | |             |
+| miguel                      |       | 17-4  | |             |
+| ricardo                     | x     | 17-5  |       |             |
+| otavio                      |       | 17-6  |       |             |
+| octavio                     | x     | 17-7  |       |             |
 
 **local da conversa:** sala 376-anexo B.
+
+Dia 16 deve começar as 16h. Começa em 16-6 porque tem 5 da outra turma antes (iniciando as 16; 16-6 deve começar depois das 17h).
+
+Dia 17 deve começar as 14h, talvez um pouquinho mais tarde.
 
 "forma" na tabela acima está marcado quando o envio não seguiu a forma pedida no início da descrição da entrega final.
 

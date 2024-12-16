@@ -24,6 +24,8 @@
 
 **local da conversa:** sala 376-anexo B.
 
+Vou me atrasar um pouco, devo chegar as 16h30 dia 16.
+
 Dia 16 deve começar as 16h. Começa em 16-6 porque tem 5 da outra turma antes (iniciando as 16; 16-6 deve começar depois das 17h).
 
 Dia 17 deve começar as 14h, talvez um pouquinho mais tarde.

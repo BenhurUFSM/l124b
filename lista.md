@@ -11,16 +11,16 @@
 | nicolas                     |       | 12-6     |  8.5 |             |
 | ArturFardin                 |       | 12-7     |  5.0 |             |
 | dionatan                    |       | 12-8     |  7.0 |             |
-| matheus                     |       | 16-6     |      |             |
-| kaua                        |       | 16-7     |      |             |
-| bruno                       | x     | 16-8     |      |             |
-| marco                       | x     | 17-1     |      |             |
-| Lavinia                     |       | 17-2     |      |             |
-| RenatoMarquioro             |       | 17-3     |      |             |
-| miguel                      |       | 17-4     |      |             |
+| matheus                     |       | 16-6     |  8.5 |             |
+| kaua                        |       | 16-7     |  7.5 |             |
+| bruno                       | x     | 16-8     |  7.0 |             |
+| marco                       | x     | 17-1     |  7.6 |             |
+| Lavinia                     |       | 17-2     |  7.0 |             |
+| RenatoMarquioro             |       | 17-3     |  7.5 |             |
+| miguel                      |       | 17-4     |  8.5 |             |
 | ricardo                     | x     | 17-5     |      |             |
-| otavio                      |       | 17-6     |      |             |
-| octavio                     | x     | 17-7     |      |             |
+| otavio                      |       | 17-6     |  8.8 |             |
+| octavio                     | x     | 17-7     |  7.0 |             |
 
 **local da conversa:** sala 376-anexo B.
 
